@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jander Teodoro</h1>
 <h3 align="center">A studant backend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Django, Pygame, Python**
+- 🌱 I’m currently learning **Django, Pygame, Python, C...**
 
 - 📫 How to reach me **jandert79@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/janderdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="janderdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jander teodoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jander teodoro" height="30" width="40" /></a>
 <a href="https://instagram.com/jander_theodoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jander_theodoro" height="30" width="40" /></a>
 <a href="https://discord.gg/jande#4149" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jande#4149" height="30" width="40" /></a>
