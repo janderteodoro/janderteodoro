@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jander Teodoro</h1>
 <h3 align="center">A studant backend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Django, Pygame, Python**
+- 🌱 I’m currently learning **Web Technologies**
 
 - 📫 How to reach me **jandert79@gmail.com**
 
