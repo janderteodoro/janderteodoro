@@ -14,8 +14,8 @@
 
  <div>
   <a href="https://github.com/janderteodoro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janderteodoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janderteodoro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janderteodoro&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janderteodoro&layout=compact&langs_count=7"/>
 </div>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
