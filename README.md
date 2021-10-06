@@ -3,7 +3,7 @@
 
 - 🌱 Constantemente estou programando e estudando **Backend**
 
-- 📫 Como me encontrar? **jandert79@gmail.com**
+- 📫 Quer entrar em contato comigo? **jandert79@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
