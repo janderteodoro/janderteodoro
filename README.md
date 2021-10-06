@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖖, I'm Jander Teodoro</h1>
 <h3 align="center"></h3>
 
-- 🌱 Constantemente estou programando e estudando **Tecnologias Web Backend**
+- 🌱 Constantemente estou programando e estudando **Backend**
 
 - 📫 Como me encontrar? **jandert79@gmail.com**
 
