@@ -8,7 +8,6 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jander teodoro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jander teodoro" height="30" width="40" /></a>
-<a href="https://instagram.com/jander_theodoro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jander_theodoro" height="30" width="40" /></a>
 <a href="https://discord.gg/jande#4149" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jande#4149" height="30" width="40" /></a>
 </p>
 
