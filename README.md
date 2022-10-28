@@ -1,26 +1,28 @@
-<h1 align="center">Hi 🖖, I'm Jander Teodoro</h1>
-<h3 align="center"></h3>
+### Hi 🖖, I'm Jander Teodoro!
 
-- 🌱 Constantemente estou programando e estudando **Backend**
+- ✨ Welcome!!!
+- 💻 always learning a new technology 🤠
 
-- 📫 Quer entrar em contato comigo? **jandert79@gmail.com**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jander teodoro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jander teodoro" height="30" width="40" /></a>
-<a href="https://discord.gg/jande#4149" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jande#4149" height="30" width="40" /></a>
-</p>
-
-<div>
+<div align="center">
   <a href="https://github.com/janderteodoro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janderteodoro&layout=compact&theme=dark&langs_count=7"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=janderteodoro&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janderteodoro&layout=compact&langs_count=7&theme=panda"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="pa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="pa-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="pa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="pa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="pa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="pa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="pa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   
- 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+##
 
+<div>
+<a href="https://www.linkedin.com/in/janderteodoro/" target:"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-<h3>O que estou estudando neste momento?</h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://expressjs.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="express" width="90" height="40" target="_blank"/> </a> 
-
+![Snake animation](https://github.com/janderteodoro/janderteodoro/blob/output/github-contribution-grid-snake.svg)
